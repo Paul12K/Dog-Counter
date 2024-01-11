@@ -41,6 +41,11 @@ button {
     background: darkgreen;
 }
 
+#reset-btn {
+    background: red;
+}
+
+
 
 #save-el {
   font-size: 18px; /* Set the font size */

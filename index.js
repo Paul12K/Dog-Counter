@@ -19,3 +19,4 @@ function reset() {
     saveEl.textContent = "Previous entries"
     
 }
+
